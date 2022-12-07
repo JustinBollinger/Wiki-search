@@ -1,6 +1,6 @@
 # **Wiki-Searcher**
 
-This web-application allows a user to search Wikipedia for a term of their choice in an alternative way and returns a list that term's URL(s) in JSON format.
+This web-application allows a user to search Wikipedia for a term of their choice in an alternative way and returns a list of that term's URL(s) in JSON format.
 
 ## **Installation**
 
